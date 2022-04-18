@@ -5,7 +5,7 @@
 }
 
 :root {
-  --color-bg: #2C2C32;
+  --color-bg: #cacacc;
   --color-active: #0f7dc6;
 }
 
@@ -37,11 +37,11 @@ footer {
 a {
   text-decoration: none;
   color: var(--color-bg);
+  font-size: 1.2rem;
 }
 
 a:hover {
-  text-decoration: underline;
-  color: rgb(205, 0, 0) !important;
+  color: rgb(55, 58, 207) !important;
 }
 
 .active {
